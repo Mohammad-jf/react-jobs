@@ -76,6 +76,7 @@ function App() {
                 </div>
               </div>
             </div>
+
             {/* <!-- Job Listing 2 --> */}
             <div className="bg-white rounded-xl shadow-md relative">
               <div className="p-4">

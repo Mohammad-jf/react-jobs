@@ -19,6 +19,7 @@ const Navbar = () => {
                             >React Jobs</span
                             >
                         </a>
+
                         <div className="md:ml-auto">
                             <div className="flex space-x-2">
                                 <a
